@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607855501574",
+    "project_id": "notesapp-vandad-youtube",
+    "storage_bucket": "notesapp-vandad-youtube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607855501574:android:dada602af2183f4fe3fe87",
+        "android_client_info": {
+          "package_name": "website.siddpanchal.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607855501574-5pqf1nl96m3rm3javi4g516ue8mm6m96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNruMgStGnJT_une62dbxS_YIVA93VDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607855501574-5pqf1nl96m3rm3javi4g516ue8mm6m96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
