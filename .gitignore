@@ -10,7 +10,7 @@
 .svn/
 
 # Firebase options
-.lib/firebase_options.dart
+**/lib/firebase_options.dart
 
 # IntelliJ related
 *.iml
